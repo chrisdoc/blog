@@ -13,6 +13,8 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "chridoc"
 
+googleAnalytics = "UA-163904715-1"
+
 [params]
     author = "Christoph Kieslich"
     info = "Full Stack Coffe Lover"
