@@ -22,8 +22,8 @@ googleAnalytics = "UA-163904715-1"
     keywords = "blog,developer,personal"
     avatarurl = "images/chrisdoc.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/fav/favicon-32x32.png"
+    favicon_16 = "/fav/favicon-16x16.png"
 
     footercontent = "Greetings from Amsterdam"
 
