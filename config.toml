@@ -20,7 +20,7 @@ googleAnalytics = "UA-163904715-1"
     info = "Full Stack Coffe Lover"
     description = "Christoph Kieslich's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/chrisdoc.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
